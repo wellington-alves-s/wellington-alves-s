@@ -25,9 +25,9 @@
 📚 Feel free to explore my repositories and follow along with my journey!
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)" />
-<img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=dark"/>    
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=dark"/>    
 </div>
 
 ## MY SKILLS (Learning)
