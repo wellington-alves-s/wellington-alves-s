@@ -1,28 +1,28 @@
 # Wellington Alves
 
-## Olá pessoal 👋
+# Olá, seja bem-vindo ao meu GitHub! 👋
 
-🎓 Meu nome é Wellington Alves, sou estudante de Analise e Desenvolvimento de Sistemas .
+🎓 Meu nome é Wellington Alves, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
 
-👩🏻‍💻 Sou desenvolvedor de software desde 20, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo da minha carreira.
+💻 Tenho interesse em me tornar um desenvolvedor full stack, dominando linguagens e tecnologias como C#, Python, Java, JavaScript, TypeScript, Node.js e Nest.js.
 
-🏆 Atualmente sou Software Engineer na em uma empresa na gringa 🇺🇸 e instrutora na [Hero Code](https://herocode.com.br)
+🚀 Atualmente estou focado em aprender, construir projetos próprios e desenvolver habilidades práticas que me preparem para o mercado de trabalho.
 
-🎯 Meu objetivo é conseguir atingir o máximo de pessoas possível com meus conteúdos e treinamentos e conseguir transformar vidas através da programação
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e crescer profissionalmente, contribuindo com soluções reais por meio da tecnologia.
 
-💜 Seja muito bem vindo ao meu Github!
+📚 Aqui você encontrará meus estudos, projetos pessoais e minha evolução como programador. Fique à vontade para acompanhar meu progresso!
 
-## Hey there 👋
+# Hey there 👋
 
-🎓 My name is Wellington Alves , I'm a Computer Engineer, Amazon Cloud Certified and Senior Software Engineer.
+🎓 My name is Wellington Alves, I'm currently studying Systems Analysis and Development and diving into the world of programming.
 
-👩🏻‍💻 I've been a software developer since 2015, I've acted as CTO, led teams and programmed several web systems throughout my career.
+💻 I'm passionate about becoming a full stack developer, aiming to master technologies like C#, Python, Java, JavaScript, TypeScript, Node.js, and Nest.js.
 
-🏆 I'm currently a FullStack developer in an USA company and instructor at [Hero Code](https://herocode.com.br)
+🚀 I'm building personal projects and learning every day, while seeking my first opportunity in the tech industry.
 
-🎯 My goal is to reach as many people as possible with my content and training and transform lives through programming
+🎯 My goal is to grow as a developer, contribute to real-world solutions, and build a solid career in software development.
 
-💜 Welcome to my Github!
+📚 Feel free to explore my repositories and follow along with my journey!
 
 ## MY SKILLS
 
@@ -59,8 +59,8 @@
 <div>
 
 <a href="https://www.instagram.com/wellington.alves.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="contato@alexiakattah.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/alexiakattah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@herocodebr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="wellington.alves95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.youtube.com/@wellington118"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </div>
