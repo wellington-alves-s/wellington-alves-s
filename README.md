@@ -24,7 +24,7 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-[![wellington-alves-s GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington-alves-s)](https://github.com/wellington-alves-s/github-readme-stats)
+[![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington-alves-s)](https://github.com/wellington-alves-s/github-readme-stats)
 
 ## MY SKILLS (Learning)
 
