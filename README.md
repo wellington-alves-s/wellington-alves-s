@@ -2,7 +2,7 @@
 
 # Olá, seja bem-vindo ao meu GitHub! 👋
 
-🎓 Meu nome é Wellington Alves, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
+🎓 Meu nome é Wellington, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
 
 💻 Tenho interesse em me tornar um desenvolvedor full stack, dominando linguagens e tecnologias como C#, Python, Java, JavaScript, TypeScript, Node.js e Nest.js.
 
@@ -14,7 +14,7 @@
 
 # Hey there 👋
 
-🎓 My name is Wellington Alves, I'm currently studying Systems Analysis and Development and diving into the world of programming.
+🎓 My name is Wellington, I'Sm currently studying Systems Analysis and Development and diving into the world of programming.
 
 💻 I'm passionate about becoming a full stack developer, aiming to master technologies like C#, Python, Java, JavaScript, TypeScript, Node.js, and Nest.js.
 
@@ -24,7 +24,7 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-## MY SKILLS
+## MY SKILLS (Learning)
 
 <div>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -59,8 +59,8 @@
 <div>
 
 <a href="https://www.instagram.com/wellington.alves.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="wellington.alves95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:wellington.alves95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="www.youtube.com/@wellington118"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </div>
