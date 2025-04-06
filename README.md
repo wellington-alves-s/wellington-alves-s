@@ -24,8 +24,18 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-[![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington-alves-s)](https://github.com/wellington-alves-s/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-alves-s&layout=compact)
+<a href="https://github.com/wellington-alves-s/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s" />
+</a>
+<a href="https://github.com/wellington-alves-s/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/wellington-alves-s/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-alves-s&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/wellington-alves-s/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellington-alves-s&repo=convoychat" />
+</a>
 
 ## MY SKILLS (Learning)
 
