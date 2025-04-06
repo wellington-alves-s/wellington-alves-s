@@ -24,11 +24,11 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-<a href="https://github.com/wellington-alves-s/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/wellington-alves-s/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 ## MY SKILLS (Learning)
