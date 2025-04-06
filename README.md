@@ -24,9 +24,8 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&theme=dark"
+<div>
+<img height="180cm"srcset="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -37,6 +36,8 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+</div>
 
 ## MY SKILLS (Learning)
 
