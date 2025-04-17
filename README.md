@@ -28,7 +28,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark&text_bold=true&line_height=25" />
 </a>
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=5&theme=dark&card_width=100px" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=5&theme=dark&card_width=50px" />
   </div>
 
 ## MY SKILLS (Learning)
