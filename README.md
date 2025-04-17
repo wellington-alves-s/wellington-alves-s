@@ -25,7 +25,7 @@
 📚 Feel free to explore my repositories and follow along with my journey!
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&ring_color=#61C778&theme=dark" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-alves-s&theme=dark&langs_count=8&layout=compact" /></div>
