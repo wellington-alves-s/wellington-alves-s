@@ -27,7 +27,7 @@
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)" />
-<img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-alves-s&layout=compact&langs_count=10&theme=dark&card_width=400"/>    
+<img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-alves-s&layout=compact&langs_count=10&theme=dark&card_width=400"/>    
 </div>
 
 ## MY SKILLS (Learning)
