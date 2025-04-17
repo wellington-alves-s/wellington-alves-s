@@ -24,12 +24,12 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark&text_bold=true&line_height=25" />
-</a>
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=5&theme=dark" />
-  </div>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 ## MY SKILLS (Learning)
 
