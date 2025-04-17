@@ -14,7 +14,7 @@
 
 # Hey there 👋
 
-🎓 My name is Wellington, I'Sm currently studying Systems Analysis and Development and diving into the world of programming.
+🎓 My name is Wellington, I'm currently studying Systems Analysis and Development and diving into the world of programming.
 
 💻 I'm passionate about becoming a full stack developer, aiming to master technologies like C#, Python, Java, JavaScript, TypeScript, Node.js, and Nest.js.
 
