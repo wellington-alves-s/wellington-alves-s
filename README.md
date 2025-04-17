@@ -25,7 +25,7 @@
 📚 Feel free to explore my repositories and follow along with my journey!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&card_width=400&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&card_width=400&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellington-alves-s&layout=compact&langs_count=5&theme=dark" />
