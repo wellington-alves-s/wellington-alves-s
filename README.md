@@ -24,12 +24,12 @@
 
 📚 Feel free to explore my repositories and follow along with my journey!
 
-<div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wellington-alves-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)" />
-<img height="180" width="300"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-alves-s&layout=compact&langs_count=10&theme=dark&card_width=400"/>    
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## MY SKILLS (Learning)
 
