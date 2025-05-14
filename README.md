@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Meu nome é Wellington, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
+<p align="left">🎓 Meu nome é <strong>Wellington</strong>, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
 
 💻 Tenho interesse em me tornar um desenvolvedor full stack, dominando linguagens e tecnologias como C#, Python, Java, JavaScript, TypeScript, Node.js e Nest.js.
 
@@ -18,7 +18,7 @@
 
 # Hey there 👋
 
-🎓 My name is Wellington, I'm currently studying Systems Analysis and Development and diving into the world of programming.
+🎓 My name is <strong>Wellington</strong>, I'm currently studying Systems Analysis and Development and diving into the world of programming.
 
 💻 I'm passionate about becoming a full stack developer, aiming to master technologies like C#, Python, Java, JavaScript, TypeScript, Node.js, and Nest.js.
 
