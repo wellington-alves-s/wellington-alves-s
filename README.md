@@ -8,7 +8,27 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">🎓 Meu nome é Wellington, sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante aprendizado no mundo da programação.
+
+💻 Tenho interesse em me tornar um desenvolvedor full stack, dominando linguagens e tecnologias como C#, Python, Java, JavaScript, TypeScript, Node.js e Nest.js.
+
+🚀 Atualmente estou focado em aprender, construir projetos próprios e desenvolver habilidades práticas que me preparem para o mercado de trabalho.
+
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e crescer profissionalmente, contribuindo com soluções reais por meio da tecnologia.
+
+📚 Aqui você encontrará meus estudos, projetos pessoais e minha evolução como programador. Fique à vontade para acompanhar meu progresso!
+
+# Hey there 👋
+
+🎓 My name is Wellington, I'm currently studying Systems Analysis and Development and diving into the world of programming.
+
+💻 I'm passionate about becoming a full stack developer, aiming to master technologies like C#, Python, Java, JavaScript, TypeScript, Node.js, and Nest.js.
+
+🚀 I'm building personal projects and learning every day, while seeking my first opportunity in the tech industry.
+
+🎯 My goal is to grow as a developer, contribute to real-world solutions, and build a solid career in software development.
+
+📚 Feel free to explore my repositories and follow along with my journey!</p>
 
 ###
 
