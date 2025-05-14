@@ -1,3 +1,7 @@
+<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,10 +15,6 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif"  />
 
 ###
 
