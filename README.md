@@ -1,8 +1,8 @@
-<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif"  />
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif"  />
 
 ###
 
