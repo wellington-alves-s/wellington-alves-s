@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif"  />
 
 ###
@@ -11,6 +13,8 @@
 ###
 
 <h2 align="left">About me</h2>
+
+###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
