@@ -85,7 +85,7 @@
 
 ###
 
-<div>
+<div align="left">
 <a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="img/linkedin.png" height="40" alt="Linkedin" /><img width="12" />
 &nbsp;
 <a href="mailto:wellington.alves95@gmail.com"><img src="img/gmail.png" height="40" alt="Gmail" /><img width="12" />
