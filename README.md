@@ -86,15 +86,25 @@
 ###
 
 <div align="left">
-<a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="img/linkedin.png" height="40" alt="Linkedin" /><img width="12" />
-&nbsp;
-<a href="mailto:wellington.alves95@gmail.com"><img src="img/gmail.png" height="40" alt="Gmail" /><img width="12" />
-&nbsp;
-<a href="https://wa.me/5511992265995"><img src="img/whatsapp.png" height="40" alt="Whatsapp" /><img width="12" />
-&nbsp;
-<a href="https://www.instagram.com/wellington.alves.s"><img src="img/instagram.png" height="40" alt="Instagram" /><img width="12" />
-&nbsp;
-<a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="img/youtube.png" height="40" alt="Youtube" /><img width="12" />
+  <a href="https://br.linkedin.com/in/wellington-alves-silva" style="outline: none;">
+    <img src="img/linkedin.png" height="40" alt="Linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:wellington.alves95@gmail.com" style="outline: none;">
+    <img src="img/gmail.png" height="40" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5511992265995" style="outline: none;">
+    <img src="img/whatsapp.png" height="40" alt="Whatsapp" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/wellington.alves.s" style="outline: none;">
+    <img src="img/instagram.png" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0" style="outline: none;">
+    <img src="img/youtube.png" height="40" alt="Youtube" />
+  </a>
 </div>
 
 ###
