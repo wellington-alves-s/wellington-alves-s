@@ -86,12 +86,15 @@
 ###
 
 <div>
-<a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="img/linkedin.png" height="40" alt="html5 logo"  />
+<a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="img/linkedin.png" height="40" alt="Linkedin"  /> <img width="12" />
+<a href="mailto:wellington.alves95@gmail.com"><img src="img/gmail.png" height="40" alt="Gmail"  />
   <img width="12" />
-<a href="mailto:wellington.alves95@gmail.com"><img src="img/gmail.png" /></a>
-<a href="https://wa.me/5511992265995"><img src="img/whatsapp.png" /></a>
-<a href="https://www.instagram.com/wellington.alves.s"><img src="img/instagram.png" /></a>
-<a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="img/youtube.png" /></a>
+<a href="https://wa.me/5511992265995"><img src="img/whatsapp.png" height="40" alt="Whatsapp"  />
+  <img width="12" />
+<a href="https://www.instagram.com/wellington.alves.s"><img src="img/instagram.png" height="40" alt="Instagram"  />
+  <img width="12" />
+<a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="img/youtube.png" height="40" alt="Youtube"  />
+  <img width="12" />
 </div>
 
 ###
