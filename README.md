@@ -90,5 +90,7 @@
 <a href="mailto:wellington.alves95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://br.linkedin.com/in/wellington-alves-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0"><img src="https://www.flaticon.com/free-icon/social_15707820?related_id=15707820" /></a>
 </div>
+
 ###
