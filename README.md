@@ -85,11 +85,10 @@
 
 ###
 
-[![LinkedIn](img/linkedin.png)](https://br.linkedin.com/in/wellington-alves-silva)
-[![Gmail](img/gmail.png)](mailto:wellington.alves95@gmail.com)
-[![WhatsApp](img/whatsapp.png)](https://wa.me/5511992265995)
-[![Instagram](img/instagram.png)](https://www.instagram.com/wellington.alves.s)
+[![LinkedIn](img/linkedin.png)](https://br.linkedin.com/in/wellington-alves-silva)&nbsp;
+[![Gmail](img/gmail.png)](mailto:wellington.alves95@gmail.com)&nbsp;
+[![WhatsApp](img/whatsapp.png)](https://wa.me/5511992265995)&nbsp;
+[![Instagram](img/instagram.png)](https://www.instagram.com/wellington.alves.s)&nbsp;
 [![YouTube](img/youtube.png)](https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0)
-
 
 ###
