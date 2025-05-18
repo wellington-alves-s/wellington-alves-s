@@ -85,26 +85,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://br.linkedin.com/in/wellington-alves-silva" style="text-decoration: none; display: inline-block;">
-    <img src="img/linkedin.png" height="40" alt="Linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:wellington.alves95@gmail.com" style="text-decoration: none; display: inline-block;">
-    <img src="img/gmail.png" height="40" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/5511992265995" style="text-decoration: none; display: inline-block;">
-    <img src="img/whatsapp.png" height="40" alt="Whatsapp" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/wellington.alves.s" style="text-decoration: none; display: inline-block;">
-    <img src="img/instagram.png" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0" style="text-decoration: none; display: inline-block;">
-    <img src="img/youtube.png" height="40" alt="Youtube" />
-  </a>
-</div>
+[![LinkedIn](img/linkedin.png)](https://br.linkedin.com/in/wellington-alves-silva)
+[![Gmail](img/gmail.png)](mailto:wellington.alves95@gmail.com)
+[![WhatsApp](img/whatsapp.png)](https://wa.me/5511992265995)
+[![Instagram](img/instagram.png)](https://www.instagram.com/wellington.alves.s)
+[![YouTube](img/youtube.png)](https://youtube.com/@wellington118?si=dCa4LC0PhJQ_AWM0)
+
 
 ###
